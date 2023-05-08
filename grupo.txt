@@ -1,0 +1,14 @@
+Repositoório do Projeto
+
+Mobile Repo: https://github.com/ArealNemexis/task-forge
+
+Back-End Repo: https://github.com/ViniciusSantanaL/jira-clone-api
+
+
+Integrantes do Grupo
+
+Nome: Vinicius Santana Leão da Silva - Matricula: 2012130043
+Nome: Ronan Rodrigues Braga - Matricula: 2112130023
+Nome: Luis Eduardo dos Anjos de Almeida - 1912130019
+Nome: Gabriel Arraes Barbosa - 2112130014
+Nome: Lucas Ferreira de Araujo - 2122130030
